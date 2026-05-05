@@ -11,7 +11,6 @@
 #include <random>
 #include <stdexcept>
 #include <string>
-
 #include <endstone/endstone.hpp>
 #include <fmt/format.h>
 #include <yaml-cpp/yaml.h>
