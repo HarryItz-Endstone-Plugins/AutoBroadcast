@@ -5,7 +5,6 @@
 /// AutoBroadcast — periodically broadcasts configurable messages to all players.
 
 #include "plugin.h"
-
 #include <filesystem>
 #include <fstream>
 #include <random>
