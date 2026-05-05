@@ -27,7 +27,7 @@ struct BroadcastConfig {
     std::vector<std::string> messages;
 };
 
-class AutoBroadcastPlugin final : public endstone::Plugin {
+class AutoBroadcastPlugin : public endstone::Plugin {
 public:
     void onEnable() override;
     void onDisable() override;
