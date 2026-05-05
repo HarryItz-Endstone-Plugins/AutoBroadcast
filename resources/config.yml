@@ -1,0 +1,24 @@
+# AutoBroadcast — default configuration
+# This file is created automatically on first start.
+# Edit and then run /autobroadcast reload (in-game) to apply changes.
+
+# How many seconds between each broadcast message.
+# Minimum: 1  |  Default: 60
+interval: 60
+
+# Message order:
+#   sequential  – send messages one after another in the order listed below
+#   random      – pick a random message each time
+order: sequential
+
+# Prefix prepended to every message.
+# Supports § colour codes and the Unicode escape \u00a7.
+# Leave empty ("") to disable the prefix.
+prefix: "§6[Info] §r"
+
+# List of messages to broadcast.
+# Each entry is a plain string; § colour codes are supported.
+messages:
+    - "§aWelcome to the server! Type /help for a list of commands."
+    - "§ePlease respect all players and follow the server rules."
+    - "§bHaving trouble? Ask a staff member for help!"
