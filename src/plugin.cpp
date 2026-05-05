@@ -24,7 +24,7 @@ namespace fs = std::filesystem;
 // Plugin metadata
 // ─────────────────────────────────────────────────────────────────────────────
 
-ENDSTONE_PLUGIN("AutoBroadcast", "1.0.0", AutoBroadcastPlugin)
+ENDSTONE_PLUGIN("auto_broadcast", "1.0.0", AutoBroadcastPlugin)
 {
     description = "Periodically broadcasts configurable messages to all online players.";
     authors     = {"harryitz"};
