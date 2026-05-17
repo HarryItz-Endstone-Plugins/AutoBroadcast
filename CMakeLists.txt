@@ -26,6 +26,7 @@ set(YAML_CPP_BUILD_TESTS OFF CACHE BOOL "" FORCE)
 set(YAML_CPP_BUILD_TOOLS OFF CACHE BOOL "" FORCE)
 FetchContent_MakeAvailable(yaml-cpp)
 
+
 # ── Plugin target ─────────────────────────────────────────────────────────────
 endstone_add_plugin(${PROJECT_NAME}
     src/plugin.cpp
