@@ -1,6 +1,6 @@
 # AutoBroadcast
 [![Downloads](https://endgit.dev/shield.dl.total/autobroadcast)](https://endgit.dev/plugins/autobroadcast)
-
+ 
 An [Endstone](https://endstone.dev) plugin that periodically broadcasts configurable messages to all online players.
 
 ## Features
