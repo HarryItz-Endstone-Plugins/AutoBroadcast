@@ -18,7 +18,7 @@ namespace harryitz::auto_broadcast {
 namespace fs = std::filesystem;
 
 // ─────────────────────────────────────────────────────────────────────────────
-// Plugin metadata
+// Plugin metadata 
 // ─────────────────────────────────────────────────────────────────────────────
 
 ENDSTONE_PLUGIN("auto_broadcast", "1.0.0", AutoBroadcastPlugin)
