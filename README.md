@@ -10,7 +10,6 @@ An [Endstone](https://endstone.dev) plugin that periodically broadcasts configur
 - Reload configuration live with `/autobroadcast reload` — no server restart required.
 - Zero console spam on startup/shutdown.
 
-
 ## Installation
 
 1. Build the plugin with CMake (see [Building](#building)).
