@@ -2,7 +2,7 @@
 [![Downloads](https://endgit.dev/shield.dl.total/autobroadcast)](https://endgit.dev/plugins/autobroadcast)
  
 An [Endstone](https://endstone.dev) plugin that periodically broadcasts configurable messages to all online players.
-
+ 
 ## Features
 - Cycle through a list of messages at a configurable interval.
 - Choose between **sequential** (ordered) or **random** broadcast mode.
